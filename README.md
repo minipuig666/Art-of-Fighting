@@ -1,5 +1,7 @@
 # Puño Eterno Studios
 ---
+
+![](P2_Estandarte_NM.jpg)
 ![](Wiki_Material/Home/LOGO/ETERNALPUNCH.png)
 ## Art of Fighting Remake
 ---
