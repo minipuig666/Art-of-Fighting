@@ -34,6 +34,5 @@ These are all of the members involved in the project. Feel free to contact any o
 - Responsability: **Design**
 - Github: [Aitorlb7](https://github.com/Aitorlb7)
 - Contact: aitor97alb@gmail.com
----
 
 
